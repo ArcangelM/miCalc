@@ -1,0 +1,19 @@
+{
+  "name": "micalc",
+  "version": "1.0.0",
+  "description": "miCalc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcangelM/miCalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcangelM/miCalc/issues"
+  },
+  "homepage": "https://github.com/ArcangelM/miCalc#readme"
+}
